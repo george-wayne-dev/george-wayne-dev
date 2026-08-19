@@ -47,6 +47,7 @@ An open-source, Markdown-first personal website that brings projects, essays, an
 
 <p>
   <img alt="AI Agents" src="https://img.shields.io/badge/AI_AGENTS-6E40C9?style=for-the-badge&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
