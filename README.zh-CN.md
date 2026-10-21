@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/georgeMiaoo?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/georgeMiaoo?style=for-the-badge&logo=github&label=FOLLOWERS&color=1F883D" /></a>
-  <a href="https://github.com/georgeMiaoo/personal-web/stargazers"><img alt="personal-web stars" src="https://img.shields.io/github/stars/georgeMiaoo/personal-web?style=for-the-badge&logo=github&label=PERSONAL-WEB%20STARS&color=0969DA" /></a>
-  <a href="https://github.com/georgeMiaoo/personal-web"><img alt="Open-source project" src="https://img.shields.io/badge/OPEN_SOURCE-PERSONAL_WEB-6E40C9?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/george-wayne-dev?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/george-wayne-dev?style=for-the-badge&logo=github&label=FOLLOWERS&color=1F883D" /></a>
+  <a href="https://github.com/george-wayne-dev/personal-web/stargazers"><img alt="personal-web stars" src="https://img.shields.io/github/stars/george-wayne-dev/personal-web?style=for-the-badge&logo=github&label=PERSONAL-WEB%20STARS&color=0969DA" /></a>
+  <a href="https://github.com/george-wayne-dev/personal-web"><img alt="Open-source project" src="https://img.shields.io/badge/OPEN_SOURCE-PERSONAL_WEB-6E40C9?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 英文名是 George Wayne，目前在广州。我是一名软件开发者，开发 Web 应用、探索 AI Agent，也记录实践中的收获。
@@ -25,19 +25,19 @@
 
 ## 项目与学习记录
 
-### [个人网站](https://github.com/georgeMiaoo/personal-web)
+### [个人网站](https://github.com/george-wayne-dev/personal-web)
 
 用于展示作品和发布文章的个人网站，使用 Next.js、React、TypeScript 和 Markdown 构建。
 
 <p>
-  <a href="https://github.com/georgeMiaoo/personal-web"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
-  <a href="https://github.com/georgeMiaoo/personal-web"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
-  <a href="https://github.com/georgeMiaoo/personal-web"><img alt="Markdown first" src="https://img.shields.io/badge/Markdown--first-0D1117?style=flat-square&logo=markdown&logoColor=white" /></a>
+  <a href="https://github.com/george-wayne-dev/personal-web"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://github.com/george-wayne-dev/personal-web"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+  <a href="https://github.com/george-wayne-dev/personal-web"><img alt="Markdown first" src="https://img.shields.io/badge/Markdown--first-0D1117?style=flat-square&logo=markdown&logoColor=white" /></a>
 </p>
 
 [访问网站 →](https://george-wayne.pages.dev/)
 
-### [Python 与 AI Agent 学习记录](https://github.com/georgeMiaoo/PythonDeveloper)
+### [Python 与 AI Agent 学习记录](https://github.com/george-wayne-dev/PythonDeveloper)
 
 从前端开发走向 Python 与 AI Agent 后端开发的学习笔记和路线规划。
 
@@ -63,17 +63,17 @@
   <summary><h2>📊 统计与动态</h2></summary>
 
   <p align="center">
-    <img alt="George Wayne's GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgeMiaoo&theme=github_dark" />
+    <img alt="George Wayne's GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=george-wayne-dev&theme=github_dark" />
   </p>
 
   <p align="center">
-    <img height="190" alt="George Wayne's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgeMiaoo&theme=github_dark" />
-    <img height="190" alt="George Wayne's repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=georgeMiaoo&theme=github_dark" />
+    <img height="190" alt="George Wayne's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=george-wayne-dev&theme=github_dark" />
+    <img height="190" alt="George Wayne's repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=george-wayne-dev&theme=github_dark" />
   </p>
 
   <p align="center">
-    <img alt="George Wayne's contribution streak" src="https://streak-stats.demolab.com/?user=georgeMiaoo&theme=github-dark-blue&hide_border=true" />
+    <img alt="George Wayne's contribution streak" src="https://streak-stats.demolab.com/?user=george-wayne-dev&theme=github-dark-blue&hide_border=true" />
   </p>
 
-  <img alt="George Wayne's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=georgeMiaoo&theme=github-compact&hide_border=true" />
+  <img alt="George Wayne's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=george-wayne-dev&theme=github-compact&hide_border=true" />
 </details>
