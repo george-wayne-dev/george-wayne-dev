@@ -17,9 +17,9 @@
   <a href="https://github.com/george-wayne-dev/personal-web"><img alt="Open-source project" src="https://img.shields.io/badge/OPEN_SOURCE-PERSONAL_WEB-6E40C9?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-A software developer based in Guangzhou, China. I build web applications, explore AI agents, and write about what I learn. My Chinese name is 柯明.
+A software developer based in Guangzhou, China. I build web applications, explore AI agents, and write about what I learn.
 
-用代码把想法做出来，也把实践中的思考写下来。
+I bring ideas to life through code and write about what I learn along the way.
 
 **[Website →](https://george-wayne.pages.dev/)**
 
